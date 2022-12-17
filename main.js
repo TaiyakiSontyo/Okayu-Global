@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = "" #トークンを入力
+TOKEN = "MTA1MzUzODY3NTQzMjExMjE2OA.G1eD7t.4KVveqxtt1E16HGNbuK_fOlGqZoDPWvhB-imT8" #トークンを入力
 global_channel_name = "taiyaki-global" #設定したいチャンネル名を入力
 
 client = discord.Client() #接続に必要なオブジェクトを生成
